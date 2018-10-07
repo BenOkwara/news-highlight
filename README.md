@@ -35,22 +35,22 @@ To run this program
 * `./start.sh`
 * access the application on this localhost address `http://127.0.0.1:5000`
 
-### Prerequisites
+## Prerequisites
 You need the following to work on the project:
 `-Python version 3.6
 -Flask
 -Pip
 -virtualenv
 -A text  Editor`
-### Link to Live Website
+## Link to Live Website
 https://news-highlight-flask.herokuapp.com/
 
-### Technologies Used
+## Technologies Used
 * Python
 * Flask micro-framework
 * Bootstrap
 
-### License
+## License
 MIT License
 
 Copyright (c) 2018 Maryann Gitonga
