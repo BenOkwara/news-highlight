@@ -21,36 +21,36 @@ This is a website using the News API to fetch data on various news sources and t
      **Input Example**: Click on **Read more...** button
 
      **Output Example**: Redirected to the original source page with the full story on the article
-     ## Setup/Installation Requirements
-     To start using this project use the following commands:
+## Setup/Installation Requirements
+To start using this project use the following commands:
 
-     * `git clone https://github.com/MaryannGitonga/news-highlight.git`
-     * `cd News_Highlight`
-     * `atom .`
-     * `code . `(this is if Visual Studio Code is your preferred text editor)
+* `git clone https://github.com/MaryannGitonga/news-highlight.git`
+* `cd News_Highlight`
+* `atom .`
+* `code . `(this is if Visual Studio Code is your preferred text editor)
 
-     To run this program
-     * run this command lines in your terminal:
-     * `chmod +x start.sh`
-     * `./start.sh`
-     * access the application on this localhost address `http://127.0.0.1:5000`
+To run this program
+* run this command lines in your terminal:
+* `chmod +x start.sh`
+* `./start.sh`
+* access the application on this localhost address `http://127.0.0.1:5000`
 
-#### Prerequisites
+## Prerequisites
 You need the following to work on the project:
 `-Python version 3.6
 -Flask
 -Pip
 -virtualenv
 -A text  Editor`
-### Link to Live Website
+## Link to Live Website
 https://news-highlight-flask.herokuapp.com/
 
-### Technologies Used
+## Technologies Used
 * Python
 * Flask micro-framework
 * Bootstrap
 
-### License
+## License
 MIT License
 
 Copyright (c) 2018 Maryann Gitonga
